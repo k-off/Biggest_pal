@@ -10,16 +10,27 @@ only.
 Exemples:
 
 $> biggest_pal "abcba"
+
 abcba
+
 $> biggest_pal "aaaaaaaaaabbcbbaaaa"
+
 aaaabbcbbaaaa
+
 $> biggest_pal "aooibdaoiwhoihwdoinzeldaisaboyobasiadlezfdsfnslk"
+
 zeldaisaboyobasiadlez
+
 $> biggest_pal "aeibaabaammaabaalek"
+
 aabaammaabaa
+
 $> biggest_pal abeb qpinqwjobo qkmnwoiq
+
+$>
 
 $> biggest_pal
 
 $>
+
  
